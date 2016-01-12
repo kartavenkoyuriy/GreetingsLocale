@@ -1,6 +1,5 @@
 package com.ardas;
 
-import com.sun.javafx.runtime.SystemProperties;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
